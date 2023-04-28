@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient();
+}
+
+p{
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+}
+
+#image{
+    width: 400px;
+    height: 400px;
+    margin-left: 40%;
+}
